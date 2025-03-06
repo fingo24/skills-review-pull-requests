@@ -22,7 +22,9 @@ _Collaborate and work together on GitHub._
 
 _Congratulations friend, you've completed this course!_
 
-<img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
+
+You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request! 哈哈哈哈
+
 
 As you continue working on GitHub, remember that high quality reviews improve your projects. If you are new to a repository, inquire about what review practices they have so you can hit the ground running.
 
