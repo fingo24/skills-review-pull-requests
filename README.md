@@ -23,7 +23,7 @@ _Collaborate and work together on GitHub._
 
 _Almost there! :heart:_
 
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request! 哈哈哈哈
 
 ### :keyboard: Activity: Merge your pull request
 
